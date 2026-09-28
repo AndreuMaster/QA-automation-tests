@@ -1,1 +1,3 @@
 # QA-automation-tests
+
+Automation NOTES for tests...
